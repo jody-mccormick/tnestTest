@@ -13,6 +13,7 @@ Welcome to the automated e2e code test for the TheraNest application.
 
 Username and Password must be added as environment variables `T_USER` and `T_PASS` prior to running tests.
 All of the testing tools and required dependencies are included as a part of `npm install`. However a global installation of `protractor` is required. Run `npm i -g protractor` to install this dependency globally.
+
 ---
 ### Running the tests
 Once all dependencies are installed, run `protractor testConfig/conf.js` from a terminal window to begin the automated test.
