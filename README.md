@@ -10,7 +10,7 @@ Welcome to the automated e2e code test for the TheraNest application.
 *  [Selemium Webdriver](https://www.seleniumhq.org/projects/webdriver/) is the under-the-hood API implemented in Protractor for driving the browser interactions.
 ---
 ### Setup
-**Username and Password must be added as environment variables `T_USER` and `T_PASS` prior to running tests.**
+Username and Password must be added as environment variables `T_USER` and `T_PASS` prior to running tests.
 All of the testing tools and required dependencies are included as a part of `npm install`. However a global installation of `protractor` is required. Run `npm i -g protractor` to install this dependency globally.
 ---
 ### Running the tests
